@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Network programming with python...
 - 💞️ I’m looking to collaborate on projects that are data driven, AI/ML intensive and automation oriented
 - 📫 You can reach me on my email at mail4ayodele@gmail.com
+- C# in the process ....
 
 <!---
 JIMOHMA/JIMOHMA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
